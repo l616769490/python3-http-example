@@ -19,12 +19,12 @@
 
 - 打开终端，运行调试命令：fun local start -c vscode，控制台会自动输出调试链接
 
-  ![调试命令](static\1.png)
+  ![调试命令](static/1.png)
 
 - 按住ctrl并单击链接，在浏览器中打开调试链接
 
 - 调试程序
- ![调试程序](static\2.png)
+ ![调试程序](static/2.png)
 
 - 调试完成后可以在浏览器中看到返回结果
- ![调试结果](static\3.png)
+ ![调试结果](static/3.png)
