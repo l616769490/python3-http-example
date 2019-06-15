@@ -1,0 +1,4 @@
+{
+    "name": "python3-http-example",
+    "copyOnlyPaths": [".fun"]
+}
