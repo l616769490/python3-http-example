@@ -28,3 +28,6 @@
 
 - 调试完成后可以在浏览器中看到返回结果
  ![调试结果](static/3.png)
+
+## 参考资料
+- [阿里云官方示例](https://github.com/aliyun/fun/tree/master/examples/local_http)
