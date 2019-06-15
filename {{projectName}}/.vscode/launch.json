@@ -5,7 +5,7 @@
             "name": "Python: Http",
             "type": "python",
             "request": "attach",
-            "port": 8888,
+            "port": 8000,
             "host": "localhost",
             "pathMappings": [
                 {
