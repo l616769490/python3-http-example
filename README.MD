@@ -17,17 +17,19 @@
 ## 使用模板
 - 使用vscode打开模板文件夹
 
-- 打开终端，运行调试命令：fun local start -c vscode，控制台会自动输出调试链接
+- 打开终端，运行调试命令：fun local start -d 8888 -c vscode，控制台会自动输出调试链接
 
   ![调试命令](static/1.png)
 
-- 按住ctrl并单击链接，在浏览器中打开调试链接
+- 按住ctrl并单击链接，即可浏览器中打开调试链接。或者直接复制链接在浏览器中打开。
 
 - 调试程序
  ![调试程序](static/2.png)
+ ![调试程序](static/4.png)
 
 - 调试完成后可以在浏览器中看到返回结果
  ![调试结果](static/3.png)
+
 
 ## 参考资料
 - [阿里云官方示例](https://github.com/aliyun/fun/tree/master/examples/local_http)
